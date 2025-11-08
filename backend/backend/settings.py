@@ -12,6 +12,7 @@ ALLOWED_HOSTS = [
     '192.168.68.103',
     'localhost',
     '127.0.0.1',
+    'taski.serveirc.com',
 ]
 
 # Application definition
